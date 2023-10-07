@@ -5,7 +5,7 @@ name = input("What's your name? ")
 age = int(input("How old are you? "))
 
 # Greet the user
-print(f"Hello, {name}!")
+print(f"Hi, {name}!")
 
 # Provide a personalized message based on age
 if age < 18:
