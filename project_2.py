@@ -1,5 +1,5 @@
 def remove_vowels(input_string):
-    vowels = "aeiouAEIOU"
+    vowels = "aeiou"
     return ''.join(char for char in input_string if char not in vowels)
 
 user_input = input()
