@@ -4,7 +4,7 @@ def remove_vowels(input_string):
 
 user_input = input()
 result = remove_vowels(user_input)
-print( result)
+print (result)
 
 
 # Function to remove vowels
