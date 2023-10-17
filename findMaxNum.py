@@ -8,7 +8,7 @@ def findMaxNum(x, y, z):
 # Sample Input For Testing
 x = 8
 y = 5
-z = 3
+z = 7
 
 # Function Call
 result = findMaxNum(x, y, z)
